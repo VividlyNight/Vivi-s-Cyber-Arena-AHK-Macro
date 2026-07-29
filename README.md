@@ -1,9 +1,11 @@
 # Vivi-s-Cyber-Arena-AHK-Macro
 A simple macro using AHK v2 for the Roblox game Cyber Arena!
 
-This is my first ever project, so please be patient with me.
+This is my first ever project, so please be patient with me
 
-Please make sure to report any bugs or suggestions, I would love to hear them! My discord is VividlyNight.
+Please make sure to report any bugs or suggestions, I would love to hear them! My discord is VividlyNight
+
+-------------------------------------------------------------------------------------------------------------------
 
 In-Game Requirements (as of v1.0.0):
 -Must have Brutal Mode unlocked
