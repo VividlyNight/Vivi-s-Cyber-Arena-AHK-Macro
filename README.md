@@ -13,7 +13,7 @@ Please make sure to report any bugs or suggestions, I would love to hear them!
 * Download and install **AutoHotKey v2** from the [Official AutoHotKey Website](https://www.autohotkey.com/).
 
 ### 2. Download the Macro
-* Navigate to the Discord channel `#1532311347679854673`.
+* Navigate to the Discord channel `of #download` or [Macro Releases](https://github.com/VividlyNight/Vivi-s-Cyber-Arena-AHK-Macro/releases).
 * Download the **latest version** of the macro (indicated by the `Latest` tag at the top of the channel).
 * Launch the downloaded file to open the Macro Menu.
 
