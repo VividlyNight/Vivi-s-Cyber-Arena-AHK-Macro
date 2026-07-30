@@ -5,7 +5,7 @@ Please make sure to report any bugs or suggestions, I would love to hear them!
 - Join the discord for updates/bug reports/chatting! https://discord.gg/4DEttu7Avd  
 
 ---
-# Cyber Arena Macro Setup Guide
+# Macro Setup/Installation Guide
 
 ## Prerequisites & Installation
 
