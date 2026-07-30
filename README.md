@@ -1,6 +1,8 @@
-A simple macro using AHK v2 for the Roblox game Cyber Arena!  
-This is my first ever project, so please be patient with me  
-Please make sure to report any bugs or suggestions, I would love to hear them! My discord is VividlyNight
+A simple macro/automated program for earning Credits using AHK v2 for the Roblox game Cyber Arena! 
+This is my first ever project, so please be patient with me!  
+Please make sure to report any bugs or suggestions, I would love to hear them! 
+- My discord is VividlyNight   
+- Join the discord for updates/bug reports/chatting! https://discord.gg/4DEttu7Avd  
 
 ---
 
@@ -14,7 +16,7 @@ Please make sure to report any bugs or suggestions, I would love to hear them! M
 - 100% Scale (change the size of text, apps, and other items)
 
 ### Roblox Requirements:
-- Have the window maximized BUT NOT FULLSCREEN (click the box icon of your window inbetween the Minimize [line] and the Close [X] 
+- Have the window FULLSCREEN (Press F11 on the keyboard, or turn Fullscreen on on the Roblox Settings)
 - Graphics Quality 1
 - Chat closed
 
