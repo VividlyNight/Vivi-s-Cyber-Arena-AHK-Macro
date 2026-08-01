@@ -1,7 +1,7 @@
 A simple macro/automated program for earning Credits using AHK v2 for the Roblox game Cyber Arena! 
 This is my first ever project, so please be patient with me!  
 Please make sure to report any bugs or suggestions, I would love to hear them! 
-- My discord is VividlyNight   
+- My discord is VividlyNight 
 - Join the discord for updates/bug reports/chatting! https://discord.gg/4DEttu7Avd  
 
 ---
